@@ -1,0 +1,8 @@
+Z:\QQ124\Activities\clnShape\clnShape\bin\Debug\clnShape.exe.config
+Z:\QQ124\Activities\clnShape\clnShape\bin\Debug\clnShape.exe
+Z:\QQ124\Activities\clnShape\clnShape\bin\Debug\clnShape.pdb
+Z:\QQ124\Activities\clnShape\clnShape\obj\Debug\Shape.csproj.AssemblyReference.cache
+Z:\QQ124\Activities\clnShape\clnShape\obj\Debug\Shape.csproj.SuggestedBindingRedirects.cache
+Z:\QQ124\Activities\clnShape\clnShape\obj\Debug\Shape.csproj.CoreCompileInputs.cache
+Z:\QQ124\Activities\clnShape\clnShape\obj\Debug\clnShape.exe
+Z:\QQ124\Activities\clnShape\clnShape\obj\Debug\clnShape.pdb
